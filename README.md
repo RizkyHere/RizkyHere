@@ -14,7 +14,7 @@ I'm an aspiring developer and artist based in Batam, Indonesia. I enjoy building
 - **Interests:** Game Design, Digital Illustration, UI/UX,
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[RizkyHere]&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RizkyHere&show_icons=true&theme=tokyonight)
 
 ### 📬 Connect with Me
 - **Instagram:** [@J]
