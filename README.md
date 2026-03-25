@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Rizki Pirman S. 👋
 
-<!--
-**RizkyHere/RizkyHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring developer and artist based in Batam, Indonesia. I enjoy building things with vibe coding, and art
 
-Here are some ideas to get you started:
+### 🎨 About Me
+- 🔭 I’m currently learning **Flutter** for mobile development.
+- 🎮 I have a huge interest in **Game Development & Art **.
+- 🎨 I'm also practicing **Art Fundamentals alongside with Coding** to improve my Game Development skills.
+- ⚡ Fun fact: I love exploring budget-friendly audio gear, and all type of genre of music
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Frameworks:** Flutter, Dart, Figma
+- **Tools:** Git, GitHub, VS Code
+- **Interests:** Game Design, Digital Illustration, UI/UX,
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[RizkyHere]&show_icons=true&theme=tokyonight)
+
+### 📬 Connect with Me
+- **Instagram:** [@J]
+
+---
+*"Art is not what you see, but what you make others see."*
