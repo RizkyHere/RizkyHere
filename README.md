@@ -17,7 +17,7 @@ I'm an aspiring developer and artist based in Batam, Indonesia. I enjoy building
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RizkyHere&show_icons=true&theme=tokyonight)
 
 ### 📬 Connect with Me
-- **Instagram:** [@J]
+- **Instagram:** [@JustRzky._]
 
 ---
 *"Art is not what you see, but what you make others see."*
